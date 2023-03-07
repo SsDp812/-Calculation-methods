@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BA4A0223-2ED2-4DD5-940F-2EB9DB570E25}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="1.3Nuton/Program.cs">
+    <Files>
+      <File FileName="1.3Nuton/Program.cs" Line="47" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="1.3Nuton" expanded="True">
+            <Node name="1.3Nuton" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.1.3Nuton PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

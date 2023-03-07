@@ -1,0 +1,15 @@
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/bin/Debug/net6.0/1.2Lagrang
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/bin/Debug/net6.0/1.2Lagrang.deps.json
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/bin/Debug/net6.0/1.2Lagrang.runtimeconfig.json
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/bin/Debug/net6.0/1.2Lagrang.dll
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/bin/Debug/net6.0/1.2Lagrang.pdb
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/obj/Debug/net6.0/1.2Lagrang.csproj.AssemblyReference.cache
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/obj/Debug/net6.0/1.2Lagrang.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/obj/Debug/net6.0/1.2Lagrang.AssemblyInfoInputs.cache
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/obj/Debug/net6.0/1.2Lagrang.AssemblyInfo.cs
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/obj/Debug/net6.0/1.2Lagrang.csproj.CoreCompileInputs.cache
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/obj/Debug/net6.0/1.2Lagrang.dll
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/obj/Debug/net6.0/refint/1.2Lagrang.dll
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/obj/Debug/net6.0/1.2Lagrang.pdb
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/obj/Debug/net6.0/1.2Lagrang.genruntimeconfig.cache
+/Users/daniilefankin/Desktop/Методы вычислений/1.2Lagrang/1.2Lagrang/obj/Debug/net6.0/ref/1.2Lagrang.dll

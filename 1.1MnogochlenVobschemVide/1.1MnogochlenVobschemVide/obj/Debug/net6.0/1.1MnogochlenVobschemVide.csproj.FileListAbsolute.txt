@@ -1,0 +1,15 @@
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/bin/Debug/net6.0/1.1MnogochlenVobschemVide
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/bin/Debug/net6.0/1.1MnogochlenVobschemVide.deps.json
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/bin/Debug/net6.0/1.1MnogochlenVobschemVide.runtimeconfig.json
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/bin/Debug/net6.0/1.1MnogochlenVobschemVide.dll
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/bin/Debug/net6.0/1.1MnogochlenVobschemVide.pdb
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/obj/Debug/net6.0/1.1MnogochlenVobschemVide.csproj.AssemblyReference.cache
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/obj/Debug/net6.0/1.1MnogochlenVobschemVide.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/obj/Debug/net6.0/1.1MnogochlenVobschemVide.AssemblyInfoInputs.cache
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/obj/Debug/net6.0/1.1MnogochlenVobschemVide.AssemblyInfo.cs
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/obj/Debug/net6.0/1.1MnogochlenVobschemVide.csproj.CoreCompileInputs.cache
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/obj/Debug/net6.0/1.1MnogochlenVobschemVide.dll
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/obj/Debug/net6.0/refint/1.1MnogochlenVobschemVide.dll
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/obj/Debug/net6.0/1.1MnogochlenVobschemVide.pdb
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/obj/Debug/net6.0/1.1MnogochlenVobschemVide.genruntimeconfig.cache
+/Users/daniilefankin/Desktop/Методы вычислений/1.1MnogochlenVobschemVide/1.1MnogochlenVobschemVide/obj/Debug/net6.0/ref/1.1MnogochlenVobschemVide.dll

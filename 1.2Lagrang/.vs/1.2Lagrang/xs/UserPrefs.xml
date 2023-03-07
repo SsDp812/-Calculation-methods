@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8F91C8AD-FD94-44D0-9F6B-3B1B1BC23A4F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="1.2Lagrang/Program.cs">
+    <Files>
+      <File FileName="1.2Lagrang/Program.cs" Line="18" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="1.2Lagrang" expanded="True">
+            <Node name="1.2Lagrang" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.1.2Lagrang PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

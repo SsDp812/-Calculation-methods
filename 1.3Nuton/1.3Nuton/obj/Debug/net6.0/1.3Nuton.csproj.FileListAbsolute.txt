@@ -1,0 +1,15 @@
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/obj/Debug/net6.0/1.3Nuton.csproj.AssemblyReference.cache
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/obj/Debug/net6.0/1.3Nuton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/obj/Debug/net6.0/1.3Nuton.AssemblyInfoInputs.cache
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/obj/Debug/net6.0/1.3Nuton.AssemblyInfo.cs
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/obj/Debug/net6.0/1.3Nuton.csproj.CoreCompileInputs.cache
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/bin/Debug/net6.0/1.3Nuton
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/bin/Debug/net6.0/1.3Nuton.deps.json
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/bin/Debug/net6.0/1.3Nuton.runtimeconfig.json
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/bin/Debug/net6.0/1.3Nuton.dll
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/bin/Debug/net6.0/1.3Nuton.pdb
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/obj/Debug/net6.0/1.3Nuton.dll
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/obj/Debug/net6.0/refint/1.3Nuton.dll
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/obj/Debug/net6.0/1.3Nuton.pdb
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/obj/Debug/net6.0/1.3Nuton.genruntimeconfig.cache
+/Users/daniilefankin/Desktop/Методы вычислений/1.3Nuton/1.3Nuton/obj/Debug/net6.0/ref/1.3Nuton.dll

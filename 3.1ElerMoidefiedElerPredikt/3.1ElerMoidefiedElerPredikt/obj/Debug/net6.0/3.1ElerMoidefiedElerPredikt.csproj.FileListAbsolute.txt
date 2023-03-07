@@ -1,0 +1,15 @@
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/bin/Debug/net6.0/3.1ElerMoidefiedElerPredikt
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/bin/Debug/net6.0/3.1ElerMoidefiedElerPredikt.deps.json
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/bin/Debug/net6.0/3.1ElerMoidefiedElerPredikt.runtimeconfig.json
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/bin/Debug/net6.0/3.1ElerMoidefiedElerPredikt.dll
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/bin/Debug/net6.0/3.1ElerMoidefiedElerPredikt.pdb
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/obj/Debug/net6.0/3.1ElerMoidefiedElerPredikt.csproj.AssemblyReference.cache
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/obj/Debug/net6.0/3.1ElerMoidefiedElerPredikt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/obj/Debug/net6.0/3.1ElerMoidefiedElerPredikt.AssemblyInfoInputs.cache
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/obj/Debug/net6.0/3.1ElerMoidefiedElerPredikt.AssemblyInfo.cs
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/obj/Debug/net6.0/3.1ElerMoidefiedElerPredikt.csproj.CoreCompileInputs.cache
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/obj/Debug/net6.0/3.1ElerMoidefiedElerPredikt.dll
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/obj/Debug/net6.0/refint/3.1ElerMoidefiedElerPredikt.dll
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/obj/Debug/net6.0/3.1ElerMoidefiedElerPredikt.pdb
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/obj/Debug/net6.0/3.1ElerMoidefiedElerPredikt.genruntimeconfig.cache
+/Users/daniilefankin/Desktop/Методы вычислений/3.1ElerMoidefiedElerPredikt/3.1ElerMoidefiedElerPredikt/obj/Debug/net6.0/ref/3.1ElerMoidefiedElerPredikt.dll

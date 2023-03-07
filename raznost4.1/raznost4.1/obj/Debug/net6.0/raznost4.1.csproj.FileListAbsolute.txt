@@ -1,0 +1,15 @@
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/bin/Debug/net6.0/raznost4.1
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/bin/Debug/net6.0/raznost4.1.deps.json
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/bin/Debug/net6.0/raznost4.1.runtimeconfig.json
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/bin/Debug/net6.0/raznost4.1.dll
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/bin/Debug/net6.0/raznost4.1.pdb
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/obj/Debug/net6.0/raznost4.1.csproj.AssemblyReference.cache
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/obj/Debug/net6.0/raznost4.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/obj/Debug/net6.0/raznost4.1.AssemblyInfoInputs.cache
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/obj/Debug/net6.0/raznost4.1.AssemblyInfo.cs
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/obj/Debug/net6.0/raznost4.1.csproj.CoreCompileInputs.cache
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/obj/Debug/net6.0/raznost4.1.dll
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/obj/Debug/net6.0/refint/raznost4.1.dll
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/obj/Debug/net6.0/raznost4.1.pdb
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/obj/Debug/net6.0/raznost4.1.genruntimeconfig.cache
+/Users/daniilefankin/Desktop/Методы вычислений/raznost4.1/raznost4.1/obj/Debug/net6.0/ref/raznost4.1.dll

@@ -1,0 +1,15 @@
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/bin/Debug/net6.0/2.3Progon
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/bin/Debug/net6.0/2.3Progon.deps.json
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/bin/Debug/net6.0/2.3Progon.runtimeconfig.json
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/bin/Debug/net6.0/2.3Progon.dll
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/bin/Debug/net6.0/2.3Progon.pdb
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/obj/Debug/net6.0/2.3Progon.csproj.AssemblyReference.cache
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/obj/Debug/net6.0/2.3Progon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/obj/Debug/net6.0/2.3Progon.AssemblyInfoInputs.cache
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/obj/Debug/net6.0/2.3Progon.AssemblyInfo.cs
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/obj/Debug/net6.0/2.3Progon.csproj.CoreCompileInputs.cache
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/obj/Debug/net6.0/2.3Progon.dll
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/obj/Debug/net6.0/refint/2.3Progon.dll
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/obj/Debug/net6.0/2.3Progon.pdb
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/obj/Debug/net6.0/2.3Progon.genruntimeconfig.cache
+/Users/daniilefankin/Desktop/Методы вычислений/2.3Progon/2.3Progon/obj/Debug/net6.0/ref/2.3Progon.dll

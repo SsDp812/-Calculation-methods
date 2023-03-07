@@ -1,0 +1,15 @@
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/bin/Debug/net6.0/2.1Gaus
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/bin/Debug/net6.0/2.1Gaus.deps.json
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/bin/Debug/net6.0/2.1Gaus.runtimeconfig.json
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/bin/Debug/net6.0/2.1Gaus.dll
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/bin/Debug/net6.0/2.1Gaus.pdb
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/obj/Debug/net6.0/2.1Gaus.csproj.AssemblyReference.cache
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/obj/Debug/net6.0/2.1Gaus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/obj/Debug/net6.0/2.1Gaus.AssemblyInfoInputs.cache
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/obj/Debug/net6.0/2.1Gaus.AssemblyInfo.cs
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/obj/Debug/net6.0/2.1Gaus.csproj.CoreCompileInputs.cache
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/obj/Debug/net6.0/2.1Gaus.dll
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/obj/Debug/net6.0/refint/2.1Gaus.dll
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/obj/Debug/net6.0/2.1Gaus.pdb
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/obj/Debug/net6.0/2.1Gaus.genruntimeconfig.cache
+/Users/daniilefankin/Desktop/Методы вычислений/2.1Gaus/2.1Gaus/obj/Debug/net6.0/ref/2.1Gaus.dll

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6F30D764-840F-491F-8BEE-85590167E076}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="2.3Progon/Program.cs">
+    <Files>
+      <File FileName="2.3Progon/Program.cs" Line="59" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2.3Progon" expanded="True">
+            <Node name="2.3Progon" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2.3Progon PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
